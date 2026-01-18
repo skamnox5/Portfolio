@@ -1,7 +1,6 @@
 ---
 title: Welcome Page
 Titledraft:
-falsetags:
 ---
 Welcome To my portfolio, feel free to check out my active projects to see what I am currently working on. -> [[Current Projects|Current Projects]]
 

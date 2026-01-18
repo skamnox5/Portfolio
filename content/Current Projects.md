@@ -1,1 +1,1 @@
-- Arcana Arena
+- [[Arcana Arena]]

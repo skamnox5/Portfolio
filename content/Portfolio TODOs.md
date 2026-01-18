@@ -4,11 +4,9 @@ draft: true
 tags:
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
 # General
 
-
-
+Set up github pages domain and setup the auto sync functionality for the repo
 # Week 2
 
 Fill out to the best of your ability the section labeled "Research, Ideation and

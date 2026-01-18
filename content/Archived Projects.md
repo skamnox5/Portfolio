@@ -8,4 +8,4 @@
 
 ## Student Projects
 
-- [[Moon's Over My Hammy (Test)]]
+- [[Moon's Over My Hammy]]
