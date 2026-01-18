@@ -1,4 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
+import { Carousel } from "./quartz/plugins/transformers/carousel"
 import * as Plugin from "./quartz/plugins"
 
 /**
@@ -71,7 +72,8 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "katex" }), 
+        Plugin.Carousel({showDots: true}),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

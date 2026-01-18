@@ -1,9 +1,16 @@
 ---
 tags:
-  - AI
   - TechnicalArtist
+  - AI_Programmer
 ---
-Itch Link [here](https://landonfleming.itch.io/personal-space)
+<Carousel>
+<img src="PersonalSpace_Title.png" alt="Title Screen"/>
+<img src="PersonalSpace_01.png" alt="Screenshot 1"/>
+<img src="PersonalSpace_02.png" alt="Screenshot 2"/>
+<img src="PersonalSpace_03.png" alt="Screenshot 3"/>
+</Carousel>
+
+Project Link - [Itch.io](https://landonfleming.itch.io/personal-space)
 
 - **Genre:** Top Down Horror 
 - **Type:** Game Jam Game
@@ -13,5 +20,6 @@ Itch Link [here](https://landonfleming.itch.io/personal-space)
 - **Role:** AI Programmer, Technical Artist
 
 # AI Programmer
+
 
 # Technical Artist
