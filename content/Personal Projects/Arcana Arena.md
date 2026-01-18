@@ -1,18 +1,16 @@
 (TODO: Introduction Video)
 
-**Genre:** Competitive Spell Crafting 
-**Type:** Proof-of-concept prototype
-**Software:** Tabletop Simulator
-**Duration:** 8 Weeks
-**Iteration#:** 6
-**Playtest#:** 4
-
-**Role:** Game Designer (Research and concept, Documentation, UI, prototype, balance)
+- **Genre:** Competitive Spell Crafting 
+- **Type:** Proof-of-concept prototype
+- **Software:** Tabletop Simulator
+- **Duration:** 8 Weeks
+- **Iteration#:** 6
+- **Playtest#:** 4 
+- **Role:** Game Designer (Research and concept, Documentation, UI, prototype, balance)
 
 # Iteration Overview
 
 Miro Prototype:
-
 ![[Arcana_Arena_Miro_Prototype.png]]
 
 Tabletop Simulator Prototype:
@@ -54,9 +52,9 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 **Theme**
 	Because of the system being about creating spells I thought that the setting being mock battles in a magic school was apt, since the feeling of players learning the spell system can play into that fantasy.
 
-## 3. Prototyping
+## 3. Paper Prototyping
 
-### Paper Prototype
+
 
 ![[Arcana_Arena_Miro_Prototype.png]]
 
@@ -65,9 +63,9 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 **Goal:**
 	To plan out a magic system that can allow for emergent and reactive gameplay while also supporting the ability to play into certain playstyles like defensive, healer, offensive, etc.
 **Solution:** 
-	- I created spells with the idea that they can potentially counter other spells/playstyles
-	- I also ensured that each tablet has each possible attribute so that, unless someone is extremely unlucky, they should be able to cast any kind of spell possible at some point in the game.
-	- By structuring the gameplay similarly to Bingo it makes for an easier onboarding experience, but also adds variance in what spells are accessible for each player in a round which makes players have to play reactively to the potential spells they or other players gain access to.
+- I created spells with the idea that they can potentially counter other spells/playstyles
+- I also ensured that each tablet has each possible attribute so that, unless someone is extremely unlucky, they should be able to cast any kind of spell possible at some point in the game.
+- By structuring the gameplay similarly to Bingo it makes for an easier onboarding experience, but also adds variance in what spells are accessible for each player in a round which makes players have to play reactively to the potential spells they or other players gain access to.
 
 
 ## 4. The First Interactable
@@ -85,9 +83,9 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 	- Mechanic Synergy 2: Attribute Extraction from marked cards limits the possible spells that can be crafted each round, but still gives player multiple options for what can be done that round allowing for strategy and skill expression for players who know the possible spells and thinks ahead.
 	- Narrative Synergy: The setting for the game is students in a mock battle to test out a mage in training's ability to strategize and improvise both of which the player will need to do while playing the game. 
 
-# 5. Playtests and Key Iterations
+## 5. Playtests and Key Iterations
 
-## Playtest #1 Highlight
+### Playtest #1 Highlight
 (TODO: Playtest #1 footage - 12:45)
 
 **Results:**
@@ -99,7 +97,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 **Solutions:** 
 	I removed the condition of needing a pattern match to cast a spell. Now only 3 placed mana marks are required.
 
-## Playtest #2 Highlight
+### Playtest #2 Highlight
 
 (TODO: Playtest #2 footage -)
 
@@ -112,7 +110,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 **Solutions:** 
 	I added several bonuses for getting a pattern match and implemented a new way of deciding turn order because of the requirements of spell casting changing. I buffed offensive spells to be more incentivizing for players.
 
-## Playtest #3 Highlight
+### Playtest #3 Highlight
 
 (TODO: Playtest #3 footage -)
 
@@ -120,7 +118,10 @@ Results:
 	Players enjoyed the overall structure of the game and gameplay dynamics.
 
 Feedback & Problems:
-	The various spells can be a bit confusing with their descriptions as to what they can counter specifically.
+	The various spells can be a bit confusing with their descriptions as to how they interact with each other.
 
 Solutions: 
 	I worked on making spell descriptions easier to understand/clarify things a bit more.
+
+## 6. Polished Portfolio Piece
+

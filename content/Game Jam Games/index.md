@@ -1,5 +1,5 @@
 ---
-title: Game Jam Games
+title:
 tags:
   - explorerexclude
 ---

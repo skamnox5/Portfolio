@@ -3,7 +3,12 @@ title: Portfolio TODOs
 draft: true
 tags:
 ---
+# leftover tasks
  
+ 1. Create your "High Moments" video to fill in under the "Overview & Mechanic Highlights" section near the top of the portfolio wireframe.
+	a. Create a 2-3 minute video of players during playtesting enjoying your game. This is where you want to show social proof of creating fun, engaging gameplay. Clips where players are excited, joking with each other, reacting to big moments or just enjoying play are all good candidates to include here. Create the video, upload it to YouTube (it can be unlisted, if you prefer), then add a link here to the video.
+
+
 # General
 
 Set up github pages domain and setup the auto sync functionality for the repo
@@ -112,3 +117,18 @@ e. Write a short paragraph under "Game Premise" describing the game in more
 
 2. Create your "High Moments" video to fill in under the "Overview & Mechanic Highlights" section near the top of the portfolio wireframe.
 	a. Create a 2-3 minute video of players during playtesting enjoying your game. This is where you want to show social proof of creating fun, engaging gameplay. Clips where players are excited, joking with each other, reacting to big moments or just enjoying play are all good candidates to include here. Create the video, upload it to YouTube (it can be unlisted, if you prefer), then add a link here to the video.
+
+# Week 9
+
+1. Fill out the section labeled "Polished Portfolio Piece" under "Process Breakdown" at the end of the portfolio wireframe.
+	a. Add the result - talk about the project as a whole and what system it was built on (Tabletop Simulator).
+	b. Talk about the goal - describe the project in an "elevator pitch" sense - give the one line mechanical and narrative description of the game.
+	c. Speak on the Execution section - this is where you outline some of the mechanical and narrative highlights of your game. This is where you can take some of the technique highlights below and write one sentence on each. This section can be thought of as "what makes my game exciting and unique"?
+	d. Include screenshots of the game in Tabletop Simulator. Include three close up screenshots of the game pieces or components you want to highlight (ideally with connections to the execution bullet points).
+	e. Finally make a 4-5 minute video with a small frame of yourself giving an overview of the game, how it plays, what makes it unique and describing the basic flow of play. Add a YouTube link to your video here (it can be unlisted if you prefer).
+
+2. Fill out the "Technique Highlights #1, #2, and #3" sections under "Overview & Mechanic Highlights".
+	a. For each technique highlight talk about the goal you wanted to achieve with that particular mechanical feature or system. Discuss player engagement or emotion that that feature created, or design issues that feature solved.
+	b. For each technique highlight discuss the result - this is the actual mechanic or feature you implemented.
+	c. Finally discuss the technique in depth - write 2-3 bullet points discussing the implementation of the mechanic or feature, why you implemented it and how that feature helped solve design problems or supported other features or systems.
+	d. Repeat this twice more to create three unique technique highlights - this is where you show off your mechanical knowledge and build proof that you can think and speak clearly on a mechanical design feature in depth.
