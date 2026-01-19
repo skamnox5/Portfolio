@@ -23,5 +23,13 @@ Project Link - [Itch.io](https://landonfleming.itch.io/personal-space)
 
 # AI Programmer
 
-
+Programmed AI with the following functionality
+- Patrol multiple points placed by the designer
+- Detect and then pursue the player
+- Return to patrol state once player leaves detection range
+- Pursue player regardless of range once they are trying to escape
 # Technical Artist
+
+Created Post Process material to give the game a pixelated look and to create a color banding effect.
+
+Added an effect to the NPCs to give their animations a stop motion effect.
