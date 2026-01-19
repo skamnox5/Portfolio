@@ -1,7 +1,7 @@
 ---
 tags:
-  - TechnicalArtist
   - AI_Programmer
+  - Technical_Artist
 ---
 <Carousel>
 <img src="PersonalSpace_Title.png" alt="Title Screen"/>
@@ -10,9 +10,11 @@ tags:
 <img src="PersonalSpace_03.png" alt="Screenshot 3"/>
 </Carousel>
 
+Global Game Jam 2025
+
 Project Link - [Itch.io](https://landonfleming.itch.io/personal-space)
 
-- **Genre:** Top Down Horror 
+- **Genre:** Top Down Survival Horror 
 - **Type:** Game Jam Game
 - **Software:** Unreal Engine 5
 - **Duration:** 48hr

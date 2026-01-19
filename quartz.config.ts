@@ -1,5 +1,5 @@
 import { QuartzConfig } from "./quartz/cfg"
-import { Carousel } from "./quartz/plugins/transformers/carousel"
+//import { Carousel } from "./quartz/plugins/transformers/carousel"
 import * as Plugin from "./quartz/plugins"
 
 /**
