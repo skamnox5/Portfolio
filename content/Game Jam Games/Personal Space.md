@@ -3,6 +3,7 @@ tags:
   - AI_Programmer
   - Technical_Artist
 ---
+
 <Carousel>
 <img src="PersonalSpace_Title.png" alt="Title Screen"/>
 <img src="PersonalSpace_01.png" alt="Screenshot 1"/>
@@ -32,4 +33,4 @@ Programmed AI with the following functionality
 
 Created Post Process material to give the game a pixelated look and to create a color banding effect.
 
-Added an effect to the NPCs to give their animations a stop motion effect.
+Added an effect to the NPCs to give their animations a stop motion effect. 

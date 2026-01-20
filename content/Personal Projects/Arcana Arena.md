@@ -1,4 +1,11 @@
+---
+tags:
+  - Game_Designer
+---
+
+
 (TODO: Introduction Video)
+
 
 - **Genre:** Competitive Spell Crafting 
 - **Type:** Proof-of-concept prototype
@@ -10,11 +17,14 @@
 
 # Iteration Overview
 
-Miro Prototype:
-![[Arcana_Arena_Miro_Prototype.png]]
+Prototypes:
 
-Tabletop Simulator Prototype:
-![[TTS_Prototype.png]]
+<Carousel>
+<img src="Arcana_Arena_Miro_Prototype.png" alt="Miro Prototype"/>
+<img src="TTS_Prototype.png" alt="TTS Prototype"/>
+</Carousel>
+
+
 # Goal
 
 The goal of making Arcana Arena was to explore designing a dynamic magic system for potential use in a video game that can meet the following key points:
@@ -114,14 +124,26 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 (TODO: Playtest #3 footage -)
 
-Results:
+**Results:**
 	Players enjoyed the overall structure of the game and gameplay dynamics.
 
-Feedback & Problems:
+**Feedback & Problems:**
 	The various spells can be a bit confusing with their descriptions as to how they interact with each other.
 
-Solutions: 
+**Solutions:** 
 	I worked on making spell descriptions easier to understand/clarify things a bit more.
 
 ## 6. Polished Portfolio Piece
+
+
+**Results:** 
+	Made a playable game that features spell crafting/casting on Tabletop simulator.
+
+**Goal:**
+	To make a game that gives the player the ability to create and then cast spells that are suited for different occasions/needs.
+
+**Execution:**
+- **Magic:** Gave players many potential options for approaching various situations with the variety of spells effects that can be casted.
+- **Improvisation:** Adding elements of luck/chance with what cards are drawn each round means that players will have to adjust their strategy each round.
+- **Competition:** Having to go up against other players means you have to take the actions of others into consideration when choosing which spells to create.
 

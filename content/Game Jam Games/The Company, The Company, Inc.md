@@ -1,3 +1,8 @@
+---
+tags:
+  - UX/UI
+---
+
 
 <Carousel>
 <img src="TheCompany_Title.png" alt="Title Screen"/>
@@ -16,3 +21,15 @@ Project Link - [Itch.io](https://landonfleming.itch.io/the-company-the-company-i
 - **Duration:** 96hr
 - **Theme:** Loop
 - **Role:** UX, Game Designer
+
+# UX
+
+I was responsible for creating the desktop like user experience for the game by:
+- Importing artist assets to create the UI elements
+- Formatting and displaying all of the NPC related info and message content
+- Program click and drag functionality
+- Program Window open and close behavior
+
+# Game Designer
+
+I designed the overall desktop experience with how the windows behave and the various functionality with it such as the start menu like button and volume slider.
