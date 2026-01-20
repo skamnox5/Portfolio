@@ -21,7 +21,7 @@ Prototypes:
 
 <Carousel>
 <img src="Arcana_Arena_Miro_Prototype.png" alt="Miro Prototype"/>
-<img src="TTS_Prototype.png" alt="TTS Prototype"/>
+<img src="Arcana_Arena_TTS_Prototype.png" alt="TTS Prototype"/>
 </Carousel>
 
 
@@ -42,12 +42,55 @@ I sought regular feedback from Jeremiah Franczyk(Lord of the Rings Online) who h
 **Game Premise:** The game is like Bingo with PvP enabled, players can create spells to sabotage each other and/or protect themselves long enough in order to win.
 
  Up to 4 players fill out their Tablets or "Bingo Sheets" based off of the drawn cards and then craft spells to either protect themselves or attack opponents, all while trying to also fill their mana bank with excess mana with the aim to be the first to reach the mana cap or be the last one standing.
+
+## Technique Highlight #1: Magic
+
+Goal:
+	lorem ipsum
+
+Result:
+	lorem ipsum
+
+Technique:
+- lorem ipsum
+
+
+## Technique Highlight #2: Improvisation 
+
+Goal:
+	lorem ipsum
+
+Result:
+	lorem ipsum
+
+Technique:
+- lorem ipsum
+
+
+## Technique Highlight #3: Competition
+
+Goal:
+	lorem ipsum
+
+Result:
+	lorem ipsum
+
+Technique:
+- lorem ipsum
+
+
 # Process Breakdown
 ## 1: Research Ideation and Theme
 
 The game I want to make is one that evokes the feelings of being a spellcaster that has to think of a spell that best suits the given situation. I also want the game to feel varied each time you play with the many given options available and to have a bit of a friendly competitive feel to it. The purpose of this game is to explore the mechanics of a magic system that delivers the feeling of being a mage in both power fantasy and technical understanding of the magic system.
 
-- **Analyzing Games:** One game that very heavily inspired this goal of immersive magic is Outward with its different magic systems that require preparation and understanding of the system itself in order to use its versatile magic. While Outward has multiple types of magic that work differently the main magic system that I drew inspiration from was its Rune Magic.
+<Carousel>
+<img src="outward_runes.png" alt="outward runes"/>
+<img src="recluse_magic.jpg" alt="recluse magic"/>
+<img src="loteria.png" alt="loteria pic"/>
+</Carousel>
+
+- **Analyzing Games:** One game that very heavily inspired this goal of immersive magic is Outward with its different magic systems that require preparation and understanding of the system itself in order to use its versatile magic. While Outward has multiple types of magic that work differently the main magic system that I drew inspiration from was its Rune Magic. I also thought of Elden Ring: Nightreign's recluse and her magic cocktails for inspiration with the idea of working with what is available to you. I also used Loteria a game similar to Bingo as inspiration for how the game would broadly be played.
 - **Researching Real-World References:** This helped with coming up with the structure of crafting spells by giving different effects based on the combination of symbols.
 - **Resonant Theming:** The premise of being students in a magic school and learning spells while competing against other students lets players feel more immersed.
 
@@ -56,10 +99,10 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 ![[Arcana Arena Rulebook V2.pdf]]
 
  
- **Premise**
+ **Premise:** 
 	I wanted to have an immersive spell casting game system and to do this I outlined a modular spell crafting system that allows players to mix and match different aspects to create an appropriate spell for the current situation.
 
-**Theme**
+**Theme:** 
 	Because of the system being about creating spells I thought that the setting being mock battles in a magic school was apt, since the feeling of players learning the spell system can play into that fantasy.
 
 ## 3. Paper Prototyping
@@ -135,6 +178,11 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ## 6. Polished Portfolio Piece
 
+<Carousel>
+<img src="Arcana_Arena_Cards.jpg" alt="Cards"/>
+<img src="Arcana_Arena_Tablet.jpg" alt="Tablet"/>
+<img src="Arcana_Arena_Spells.jpg" alt="Spells"/>
+</Carousel>
 
 **Results:** 
 	Made a playable game that features spell crafting/casting on Tabletop simulator.
