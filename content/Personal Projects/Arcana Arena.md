@@ -78,7 +78,7 @@ Goal:
 	To have a sense of competition in the game where players feel like they are pitted against each other and feel like they need to interact with each other.
 
 Result:
-	Adding a win condition for eliminating other players and having multiple ways of interacting with other players.
+	Balanced the game where engaging with opponents is a viable/
 
 Technique:
 - lorem ipsum
