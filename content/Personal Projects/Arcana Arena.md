@@ -6,6 +6,7 @@ tags:
 
 (TODO: Introduction Video)
 
+Game Design Skills: Game Design Boot Camp project
 
 - **Genre:** Competitive Spell Crafting 
 - **Type:** Proof-of-concept prototype
@@ -39,41 +40,45 @@ I sought regular feedback from Jeremiah Franczyk(Lord of the Rings Online) who h
 
 (TODO: Youtube Link to High Moments)
 
-**Game Premise:** The game is like Bingo with PvP enabled, players can create spells to sabotage each other and/or protect themselves long enough in order to win.
+**Game Premise:** The game is like Bingo with PvP enabled, where players are put to the test against fellow players to see who can best utilize what is available to them to achieve victory.
 
  Up to 4 players fill out their Tablets or "Bingo Sheets" based off of the drawn cards and then craft spells to either protect themselves or attack opponents, all while trying to also fill their mana bank with excess mana with the aim to be the first to reach the mana cap or be the last one standing.
 
-## Technique Highlight #1: Magic
+## Technique Highlight #1: Magical Strategy
 
 Goal:
-	lorem ipsum
+	I wanted to give players a varied toolbox that allows them to express their skill and play into a power fantasy
 
 Result:
-	lorem ipsum
+	I Created a list of spells with various effects that play into different playstyles/fantasies
 
 Technique:
-- lorem ipsum
+- Having multiple spells gives players a multitude of options.
+- Giving the different spells varying effects that play into their theme allows for players to lean into a playstyle and power fantasy at the same time.
+- The effects of spells and how they might interact with each other adds a layer of strategy to the game
 
 
-## Technique Highlight #2: Improvisation 
+## Technique Highlight #2: Uncertainty 
 
 Goal:
-	lorem ipsum
+	Enable emergent gameplay to create variety in moment to moment gameplay
 
 Result:
-	lorem ipsum
+	Added elements of chance/luck to mix up gameplay for players
 
 Technique:
-- lorem ipsum
+- Using the Bingo like system of cards being called and markers on a card add levels of chance to the game.
+- Adding multiple attributes per card adds some level of control and gives the player more options for improvising a strategy based off of available combinations.
+- Mana surges add another level of chance/risk to the game and gives players another avenue for attempting to give themselves an edge in the game.
 
 
 ## Technique Highlight #3: Competition
 
 Goal:
-	lorem ipsum
+	To have a sense of competition in the game where players feel like they are pitted against each other and feel like they need to interact with each other.
 
 Result:
-	lorem ipsum
+	Adding a win condition for eliminating other players and having multiple ways of interacting with other players.
 
 Technique:
 - lorem ipsum
@@ -132,9 +137,9 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 	Have a playable version of this game to properly test out spell dynamics and overall flow of the game.
 
 **Implementation:**
-	- Mechanic Synergy 1: Pattern match bonuses add an element of luck to the game that can provide a meaningful boost and make gameplay more exciting and adds a factor outside of skill to the game.
-	- Mechanic Synergy 2: Attribute Extraction from marked cards limits the possible spells that can be crafted each round, but still gives player multiple options for what can be done that round allowing for strategy and skill expression for players who know the possible spells and thinks ahead.
-	- Narrative Synergy: The setting for the game is students in a mock battle to test out a mage in training's ability to strategize and improvise both of which the player will need to do while playing the game. 
+- Mechanic Synergy 1: Pattern match bonuses add an element of luck to the game that can provide a meaningful boost and make gameplay more exciting and adds a factor outside of skill to the game.
+- Mechanic Synergy 2: Attribute Extraction from marked cards limits the possible spells that can be crafted each round, but still gives player multiple options for what can be done that round allowing for strategy and skill expression for players who know the possible spells and thinks ahead.
+- Narrative Synergy: The setting for the game is students in a mock battle to test out a mage in training's ability to strategize and improvise both of which the player will need to do while playing the game. 
 
 ## 5. Playtests and Key Iterations
 
@@ -188,10 +193,13 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 	Made a playable game that features spell crafting/casting on Tabletop simulator.
 
 **Goal:**
-	To make a game that gives the player the ability to create and then cast spells that are suited for different occasions/needs.
+	To make a dynamic game that allows for varying strategies and playstyles themed around spell casting.
+
+
 
 **Execution:**
 - **Magic:** Gave players many potential options for approaching various situations with the variety of spells effects that can be casted.
-- **Improvisation:** Adding elements of luck/chance with what cards are drawn each round means that players will have to adjust their strategy each round.
-- **Competition:** Having to go up against other players means you have to take the actions of others into consideration when choosing which spells to create.
+- **Uncertainty:** Adding elements of luck/chance with what cards are drawn each round means that players will have to adjust their strategy each round.
+- **Competition:** Having to go up against other players means you have to take the actions of others into consideration, adding more variance to each game.
+
 
