@@ -116,10 +116,13 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ![[Arcana_Arena_Miro_Prototype.png]]
 
+
 **Result:** 
 	The interplay of the spell casting system was honed in a bit more than the initial concept to allow for players to try to counter different playstyles. This was done by filling out the list of possible spells and having some spells able to counter certain actions other players can take.
+
 **Goal:**
 	To plan out a magic system that can allow for emergent and reactive gameplay while also supporting the ability to play into certain playstyles like defensive, healer, offensive, etc.
+
 **Solution:** 
 - I created spells with the idea that they can potentially counter other spells/playstyles
 - I also ensured that each tablet has each possible attribute so that, unless someone is extremely unlucky, they should be able to cast any kind of spell possible at some point in the game.
