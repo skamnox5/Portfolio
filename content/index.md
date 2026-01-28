@@ -2,6 +2,15 @@
 title: Welcome Page
 Titledraft:
 ---
-Welcome To my portfolio, feel free to check out my active projects to see what I am currently working on. -> [[Current Projects|Current Projects]]
+# Introduction
 
-Or you can go through my archived projects to see what I have worked on in the past. -> [[Past Projects|Past Projects]]
+# Featured Projects
+
+## [[Moon's Over My Hammy|Moons Over My Hammy]]
+![[MOMH_01.jpg]] 
+![[Moon's Over My Hammy#Details]]
+
+---
+## [[Arcana Arena]]
+![[Arcana_Arena_Cards.jpg]] 
+![[Arcana Arena#Details]]

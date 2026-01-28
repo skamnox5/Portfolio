@@ -40,7 +40,7 @@
 ---
 # Education
 
- **University of New Mexico, Albuquerque, NM - Film and digital arts - Gaming Concentration BA**
+ **University of New Mexico, Albuquerque, NM - Film and digital arts - Gaming Concentration BFA**
 - 3.96 GPA 
 - August 2022 - May 2025
 

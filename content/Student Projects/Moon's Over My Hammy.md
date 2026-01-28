@@ -2,6 +2,8 @@
 tags:
   - Game_Designer
   - Programmer
+  - Systems_Designer
+  - Shipped
 ---
 
 
@@ -19,10 +21,22 @@ University Capstone Project
 
 Project Link - [Itch.io](https://hammylimitedco.itch.io/moons-over-my-hammy)
 
+# Details
 - **Genre:** Arcade Cooking Sim 
 - **Type:** Full Game
 - **Software:** UE5
 - **Duration:** 6 Months
 - **Iteration#:** 5
 - **Playtest#:** 6
-- **Role:** Game Designer, Programmer
+- **Role:** Systems Designer
+
+# Description
+
+alsdkjflasdjf;lajsdf;lka jsdfl;ajdsflajdsf;lajsdf
+	alsdjf;lasdjfaljsdfa
+
+alskdjflaksdjf;alksjdfa;lkksjdf
+adsdlkjfal;sd;jaoisiguasdvlb asl;dfhqwe
+alskdfa;lsdjfalksdjfl;asdjkfas
+
+# Body

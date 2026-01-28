@@ -2,6 +2,7 @@
 tags:
   - Game_Designer
   - Programmer
+  - Shipped
 ---
 
 <Carousel>
@@ -14,6 +15,8 @@ tags:
 New Mexico Game Jam 2024
 
 Project Link - [Itch.io](https://landonfleming.itch.io/rabbit-escape)
+
+# Details
 
 - **Genre:** Stealth Platformer
 - **Type:** Game Jam Game

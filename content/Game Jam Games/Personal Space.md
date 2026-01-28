@@ -2,6 +2,7 @@
 tags:
   - AI_Programmer
   - Technical_Artist
+  - Shipped
 ---
 
 <Carousel>
@@ -15,14 +16,16 @@ Global Game Jam 2025
 
 Project Link - [Itch.io](https://landonfleming.itch.io/personal-space)
 
+# Details
+
 - **Genre:** Top Down Survival Horror 
 - **Type:** Game Jam Game
 - **Software:** Unreal Engine 5
 - **Duration:** 48hr
 - **Theme:** Bubble
-- **Role:** AI Programmer, Technical Artist
+- **Role:** AI Scripter, Technical Artist
 
-# AI Programmer
+# AI Scripter
 
 Programmed AI with the following functionality
 - Patrol multiple points placed by the designer

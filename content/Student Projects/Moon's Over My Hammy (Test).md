@@ -12,11 +12,14 @@ Project Link - [Itch.io](https://hammylimitedco.itch.io/moons-over-my-hammy)
 
 ## Description
 
-In this game you inherit your grandpa's diner but also his debt and need to bring the diner back from disrepair and climb out of debt.
+^b9dfbe
 
-The game features elements of time management with moving around the kitchen and cooking the food before customers get angry and leave. 
+>In this game you inherit your grandpa's diner but also his debt and need to bring the diner back from disrepair and climb out of debt. 
+>
+>The game features elements of time management with moving around the kitchen and cooking the food before customers get angry and leave. 
+>
+>It also has decisions that the player can make with the various upgrades the player can purchase that can either make the experience of cooking easier or add options to the menu giving the player the ability to make more money but also increasing the challenge of the game. 
 
-It also has decisions that the player can make with the various upgrades the player can purchase that can either make the experience of cooking easier or add options to the menu giving the player the ability to make more money but also increasing the challenge of the game.
 ## My Role
 
 I designed and implemented the systems relating to the core game loop of cooking and the systems that interact with that such as the upgrades system and its accompanying UI elements.

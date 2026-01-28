@@ -8,6 +8,8 @@ tags:
 
 Game Design Skills: Game Design Boot Camp project
 
+# Details
+
 - **Genre:** Competitive Spell Crafting 
 - **Type:** Proof-of-concept prototype
 - **Software:** Tabletop Simulator

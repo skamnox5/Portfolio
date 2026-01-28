@@ -1,6 +1,7 @@
 ---
 tags:
   - UX/UI
+  - Shipped
 ---
 
 
@@ -14,6 +15,8 @@ tags:
 Game Maker's Toolkit Game Jam 2025
 
 Project Link - [Itch.io](https://landonfleming.itch.io/the-company-the-company-inc)
+
+# Details
 
 - **Genre:** Simulation
 - **Type:** Game Jam Game
