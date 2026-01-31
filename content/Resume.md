@@ -2,8 +2,10 @@
 
 # Experience
 
-## University of New Mexico - Game Development Capstone Project
+**University of New Mexico - Game Development Capstone Project**
+
 *August 2024 - May 2025*
+
 [[Moon's Over My Hammy]]
  
 - Used UE5 Blueprints to script many of the underlying gameplay systems such as cooking with the various stations, printing ingredients and upgrading the kitchen
@@ -11,8 +13,10 @@
 - Used UE Material Editor to create dynamic materials to emphasize when objects are able to be interacted with by applying a pulsating glow.
 - Used Niagara VFX to add smoke/mist to different stations when they are being used.
 
-## Game Design Skills Bootcamp Prototype
-October 2025 - January 2026
+**Game Design Skills Bootcamp Prototype**
+
+*October 2025 - January 2026*
+
 [[Arcana Arena]]
 
 - Researched and developed a game prototype 
@@ -22,7 +26,7 @@ October 2025 - January 2026
 - Created documentation for game rules
 - Created visual assets for the game items like cards utilizing symbols from game-icons.net
 ---
-# Hard Skills  
+# Skills  
 
 - Programming
 	- C++
@@ -58,13 +62,20 @@ October 2025 - January 2026
 ---
 # Education
 
- **University of New Mexico, Albuquerque, NM - Film and digital arts - Gaming Concentration BFA**
-- 3.96 GPA 
-- August 2022 - May 2025
+ **University of New Mexico, Albuquerque, NM - Film and Digital Media Arts - Gaming Concentration BFA**
+
+*August 2022 - May 2025*
+
+*3.96 GPA* 
+
 
 **Central New Mexico Community College, Albuquerque, NM - Computer Programming AAS** 
-- 3.54 GPA
-- January 2017 - April 2020
+ 
+ *January 2017 - April 2020*
+ 
+*3.54 GPA*
+
 
 **Game Design Skills Bootcamp - Game Prototyping Certificate** 
-- October 2025 - January 2026
+
+ *October 2025 - January 2026*

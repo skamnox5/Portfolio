@@ -35,4 +35,4 @@ I was responsible for creating the desktop like user experience for the game by:
 
 # Game Designer
 
-I designed the overall desktop experience with how the windows behave and the various functionality with it such as the start menu like button and volume slider.
+I designed the overall desktop experience with how the windows behave and the various functionality with it such as the start menu button and volume slider.
