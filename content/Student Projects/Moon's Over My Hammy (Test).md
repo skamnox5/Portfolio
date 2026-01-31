@@ -4,8 +4,6 @@ tags:
 draft: true
 ---
 
-![Trailer](www.youtube.com/watch?v=m1HcnOsnbc4&embeds_referring_euri=https%3A%2F%2Fhammylimitedco.itch.io%2Fmoons-over-my-hammy&source_ve_path=MjM4NTE)
-
 University Capstone Project
 
 Project Link - [Itch.io](https://hammylimitedco.itch.io/moons-over-my-hammy)

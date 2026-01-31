@@ -27,13 +27,13 @@ Project Link - [Itch.io](https://landonfleming.itch.io/personal-space)
 
 # AI Scripter
 
-Programmed AI with the following functionality
+Programmed AI using *Behavior Trees* with the following functionality
 - Patrol multiple points placed by the designer
 - Detect and then pursue the player
 - Return to patrol state once player leaves detection range
 - Pursue player regardless of range once they are trying to escape
 # Technical Artist
 
-Created Post Process material to give the game a pixelated look and to create a color banding effect.
+The aim was to have a retro looking horror game and this was achieved by creating a *Post Process Material* that clamped color values to create a color banding effect and added a pixelated effect.
 
-Added an effect to the NPCs to give their animations a stop motion effect. 
+To add to the eerie unsettling effect of the creatures, I created a *Control Rig* for the characters that would cache their pose and only change it every 3 frames to create a stop motion like effect.

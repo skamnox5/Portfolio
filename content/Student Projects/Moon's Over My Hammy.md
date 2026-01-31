@@ -32,11 +32,6 @@ Project Link - [Itch.io](https://hammylimitedco.itch.io/moons-over-my-hammy)
 
 # Description
 
-alsdkjflasdjf;lajsdf;lka jsdfl;ajdsflajdsf;lajsdf
-	alsdjf;lasdjfaljsdfa
-
-alskdjflaksdjf;alksjdfa;lkksjdf
-adsdlkjfal;sd;jaoisiguasdvlb asl;dfhqwe
-alskdfa;lsdjfalksdjfl;asdjkfas
+Lorem ipsum
 
 # Body

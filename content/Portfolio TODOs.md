@@ -4,7 +4,9 @@ draft: true
 tags:
 ---
 # leftover tasks
- 
+
+	Set up analytic tool for website
+
  1. Create your "High Moments" video to fill in under the "Overview & Mechanic Highlights" section near the top of the portfolio wireframe.
 	a. Create a 2-3 minute video of players during playtesting enjoying your game. This is where you want to show social proof of creating fun, engaging gameplay. Clips where players are excited, joking with each other, reacting to big moments or just enjoying play are all good candidates to include here. Create the video, upload it to YouTube (it can be unlisted, if you prefer), then add a link here to the video.
 
