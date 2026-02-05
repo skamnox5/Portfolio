@@ -32,6 +32,7 @@ Programmed AI using *Behavior Trees* with the following functionality
 - Detect and then pursue the player
 - Return to patrol state once player leaves detection range
 - Pursue player regardless of range once they are trying to escape
+
 # Technical Artist
 
 The aim was to have a retro looking horror game and this was achieved by creating a *Post Process Material* that clamped color values to create a color banding effect and added a pixelated effect.

@@ -3,12 +3,8 @@ tags:
   - Game_Designer
 ---
 
-<Carousel>
-<img src="Arcana_Arena_Tablet.jpg" alt="Tablet"/>
-<img src="Arcana_Arena_Cards.jpg" alt="Cards"/>
-<img src="Arcana_Arena_Spells.jpg" alt="Spells"/>
-</Carousel>
 
+(TODO: Introduction Video)
 
 Game Design Skills: Game Design Boot Camp project
 
@@ -44,9 +40,9 @@ I sought regular feedback from Jeremiah Franczyk(Lord of the Rings Online) who h
 
 # Overview & Technique Highlights
 
+(TODO: Youtube Link to High Moments)
 
-## Game Premise
-The game is like Bingo with PvP enabled, where players are put to the test against fellow players to see who can best utilize what is available to them to achieve victory.
+**Game Premise:** The game is like Bingo with PvP enabled, where players are put to the test against fellow players to see who can best utilize what is available to them to achieve victory.
 
  Up to 4 players fill out their Tablets or "Bingo Sheets" based off of the drawn cards and then craft spells to either protect themselves or attack opponents, all while trying to also fill their mana bank with excess mana with the aim to be the first to reach the mana cap or be the last one standing.
 
@@ -84,12 +80,10 @@ Goal:
 	To have a sense of competition in the game where players feel like they are pitted against each other and feel like they need to interact with each other.
 
 Result:
-	Balanced the game where engaging with opponents is a viable strategy
+	Balanced the game where engaging with opponents is a viable/
 
 Technique:
-- Changing certain card effects to directly grief other players
-- Increased inherit damage of debuff spells
-- Balancing health and mana bank values to where pvp would be the more optimal strategy
+- lorem ipsum
 
 
 # Process Breakdown
@@ -139,7 +133,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ## 4. The First Interactable
 
-
+(TODO: Youtube Link to video of footage of game in TTS)
 
 **Result:**
 	Removed the requirement of a pattern match for casting spells and removed minimum mark requirement for depositing in bank.
@@ -155,7 +149,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 ## 5. Playtests and Key Iterations
 
 ### Playtest #1 Highlight
-
+(TODO: Playtest #1 footage - 12:45)
 
 **Results:**
 	Players enjoyed the theme of the game and the concept of crafting spells
@@ -168,6 +162,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ### Playtest #2 Highlight
 
+(TODO: Playtest #2 footage -)
 
 **Results:**
 	Players enjoyed crafting spells and the idea of competing against each other.
@@ -180,6 +175,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ### Playtest #3 Highlight
 
+(TODO: Playtest #3 footage -)
 
 **Results:**
 	Players enjoyed the overall structure of the game and gameplay dynamics.
