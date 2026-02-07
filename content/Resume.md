@@ -23,8 +23,8 @@
 - Iterated with paper prototypes using Miro
 - Created a playable prototype using Tabletop Simulator
 - Balanced and modified game based off of feedback from frequent playtests
-- Created documentation for game rules
-- Created visual assets for the game items like cards utilizing symbols from game-icons.net
+- Created documentation for game rules and a quick start guide
+- Created visual assets for the game items such as cards, utilizing icons sourced from game-icons.net
 ---
 # Skills  
 
@@ -39,6 +39,8 @@
 	- Niagara
 	- State Trees
 - Blender
+	- Modeling
+	- Rigging
 - Microsoft Suite
 	- Word
 	- PowerPoint

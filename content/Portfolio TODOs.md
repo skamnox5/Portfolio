@@ -5,6 +5,8 @@ tags:
 ---
 # leftover tasks
 
+For MOMH organize the iteration feed back and solutions more like the Arcana Arena format with clear sections and bullet points for easier at a glance readability 
+	
 	Set up analytic tool for website
 
  1. Create your "High Moments" video to fill in under the "Overview & Mechanic Highlights" section near the top of the portfolio wireframe.
