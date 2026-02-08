@@ -64,6 +64,11 @@
 ---
 # Education
 
+ **Game Design Skills Bootcamp - Game Prototyping Certificate** 
+
+ *October 2025 - January 2026*
+ 
+ 
  **University of New Mexico, Albuquerque, NM - Film and Digital Media Arts - Gaming Concentration BFA**
 
 *August 2022 - May 2025*
@@ -78,6 +83,4 @@
 *3.54 GPA*
 
 
-**Game Design Skills Bootcamp - Game Prototyping Certificate** 
 
- *October 2025 - January 2026*
