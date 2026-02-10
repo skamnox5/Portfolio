@@ -20,7 +20,7 @@ GIFS to record
 - Making coffee
 - Printing food
 - Showing off printer queue
-- Cooking items
+- ~~Cooking items~~
 - Serving Customer
 # General
 

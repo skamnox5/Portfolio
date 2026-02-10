@@ -42,13 +42,19 @@ This was done with 3 key points in the game
 
 My responsibility for this project was to develop the underlying systems for the cooking and diner upgrade mechanics using UE5 Blueprints.
 
-The main systems I was responsible for were
+The main systems I was responsible for were:
 - **Cooking** Dishes
 - **Printing** food Ingredients
 - Diner **Upgrading**
 ## Cooking
 
+<Carousel>
+<img src="MOMH_Cooking.gif" alt="MOMH Cooking"/>
+</Carousel>
+
+
 For cooking dishes there are 4 stations, each with a designated food recipe. Players need to place the appropriate ingredients for a recipe on its associated station and interact with the station to prepare the dish.
+
 
 ### Iteration #1
 Initially the cooking system was going to feature minigames and some sort of UI for each station and the game generally was planned to be a slower paced game.
@@ -62,6 +68,8 @@ Initially the cooking system was going to feature minigames and some sort of UI 
 - Add condition to where ingredients can only be placed down onto a station that needs that ingredient
 
 These changes were done to reduce the cognitive load on players and to help speed up the moment to moment gameplay.
+
+---
 ### Iteration #2
 
 The game felt a lot more responsive and smoother to play than before but certain actions felt lacking in feedback and a bit too same-y.
@@ -79,6 +87,7 @@ The goal was to make things more clear to players for what ingredients are still
 
 Then by having some stations be based on a timer that is started by the player and some dishes being made by the player holding the interact button, the game would have some level of time management and require the player to plan which ingredients to source first and when to initiate certain dishes.
 
+---
 ### Iteration #3
 
 At this point the core systems for the cooking portion of the gameplay loop was finished and just needed slight balancing and more feedback to the player such as SFX and VFX and to have these things properly toggled. 
@@ -98,7 +107,12 @@ All of this was done to help show the player that things are actually happening 
 
 The coffee station allows the player to make coffee which is a simple recipe that customers have a chance of ordering after their main order providing bonus money.
 
+
 ## Printing
+
+<Carousel>
+<img src="MOMH_Print.gif" alt="MOMH Printing"/>
+</Carousel>
 
 In the future sourcing ingredients has advanced to the point where you can just 3d print your groceries. This is how players can acquire any ingredient they need and however much they need.
 
@@ -112,6 +126,9 @@ Initially the game was going to feature a hunting/gathering phase where players 
 **Solution:**
 - Added an unlimited number of each ingredient in the fridge
 
+Since the gathering phase of the game was cut, removing the limited quantity of ingredients made sense and allowed for more focus on the actual cooking loop instead.
+
+---
 ### Iteration #2
 
 Now that the ingredients were infinite there was a bit of dissonance with the idea with a bottomless fridge, so this station was changed to a 3d printer which also played into the futuristic themes of the game.
@@ -126,6 +143,7 @@ Now that the ingredients were infinite there was a bit of dissonance with the id
 
 These changes were made to play into the new station from fridge to printer while also adding a bit of pressure to the player to plan ahead since ingredients are no longer on demand.
 
+---
 ### Iteration #3
 
 Printing ingredients added a new layer to the cooking system but wasn't really fleshed out and felt like purely like a hinderance without much depth.
@@ -141,6 +159,10 @@ This adds a benefit to the player by allowing them to set multiple ingredients t
 
 This also increases the chaotic nature of the diner by having players going back and forth quickly between stations and the printer and topping off the queue.
 ## Upgrading
+
+<Carousel>
+<img src="MOMH_Upgrading.gif" alt="MOMH Upgrading"/>
+</Carousel>
 
 The idea was to have an upgrade system that was used to repair a run down family owned diner and some upgrades that  allow the players to make more money as the main appeal of upgrading.
 
@@ -159,6 +181,7 @@ The upgrade system was initially the way to progress through the game by slowly 
 
 This functionally acted as expanding the players inventory since they can pre print or pre prepare dishes and store them for when a customer arrives and orders something. Allowing for more strategic play and depth to the gameplay loop.
 
+---
 ### Iteration #2
 
 The trays added proved to be beneficial to players so this iteration we leaned more into that style of upgrade and added a new station to help address the money issues.
