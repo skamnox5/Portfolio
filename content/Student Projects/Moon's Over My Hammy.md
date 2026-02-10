@@ -57,7 +57,7 @@ Initially the cooking system was going to feature minigames and some sort of UI 
 - It felt clunky having to open a menu
 - Having to memorize the right ingredients and where they went also slowed the game down especially if a mistake was made
 
-**Solutions:**
+**Solution:**
 - Remove menus for cooking stations and scrap minigame idea
 - Add condition to where ingredients can only be placed down onto a station that needs that ingredient
 
@@ -70,7 +70,7 @@ The game felt a lot more responsive and smoother to play than before but certain
 - Confusing as to what a station needs
 - The process of cooking wasn't exciting
 
-**Solutions:**
+**Solution:**
 - Added meshes of placed ingredients on stations
 - Added progress bars for cooking
 - Made some stations require player to hold cook button and some stations have a timer
@@ -88,7 +88,7 @@ At this point the core systems for the cooking portion of the gameplay loop was 
 - Clarify what is interactable
 - Some recipes didn't yield enough money for the work put in
 
-**Solutions:**
+**Solution:**
 - Play SFX, VFX and animations for when stations are being used
 - Added glowing dynamic material for when stations are interactable/enabled
 - Rebalanced the currency return values for recipes
@@ -134,7 +134,8 @@ Printing ingredients added a new layer to the cooking system but wasn't really f
 - Having to wait for ingredients feels kind of bad
 - Seems like needless friction for the player
 
-To address these issues I added a printing queue where players can queue up multiple ingredients to print on their own only requiring the player to remove the finished print for the next ingredient to begin printing along with visual indicators for this new queue system.
+**Solution:**
+- Added a printer queue where players can have a buffer of multiple ingredients that are automatically printed in order.
 
 This adds a benefit to the player by allowing them to set multiple ingredients to print and then work on other tasks in the meantime. It also adds more depth to the system by making players more considerate as to what they print and in what order. 
 
@@ -144,14 +145,44 @@ This also increases the chaotic nature of the diner by having players going back
 The idea was to have an upgrade system that was used to repair a run down family owned diner and some upgrades that  allow the players to make more money as the main appeal of upgrading.
 
 ### Iteration #1
+
 The upgrade system was initially the way to progress through the game by slowly restoring the run down diner and unlocking more recipes that yielded more money.
+ 
 
-Feedback at this stage was mostly that it didn't really feel like an upgrade since all it did at this point was unlock more difficult recipes that only gave slightly more money.
+**Feedback:**
+- Upgrades didn't feel impactful to the gameplay
+- Upgrades didn't feel worth the cost
 
-One way this was addressed at this stage of development was to add more slots in the kitchen that ingredients can placed onto, essentially increasing the player inventory that they can juggle ingredients with. 
+**Solution:**
+- Added Kitchen Tray slots upgrade(Spots that food can be placed onto)
+- Re balanced upgrade costs and money gain from associated recipes
 
-This allowed players to have a bit more space to prepare with by pre printing potentially needed ingredients before customers flood into the restaurant.
+This functionally acted as expanding the players inventory since they can pre print or pre prepare dishes and store them for when a customer arrives and orders something. Allowing for more strategic play and depth to the gameplay loop.
 
 ### Iteration #2
 
+The trays added proved to be beneficial to players so this iteration we leaned more into that style of upgrade and added a new station to help address the money issues.
 
+**Feedback:**
+- A way to make more money would be nice
+- There needs to be more upgrades that aren't just stations
+
+**Solution:**
+- Added Coffee station for extra income
+- Added Blender upgrade
+
+The Coffee station allows the player to sell coffee, which is a simple recipe, that customers have a chance of ordering before leaving which provides potential bonus income.
+
+The blender upgrade automatically chops ingredients upon being placed which saves a lot of time and is useful for busy days.
+
+### Iteration #3
+
+At this point in development the Printing Queue system was implemented, so to round out the upgrade system I added an upgrade for extending the queue limit.
+
+**Feedback:**
+- printing capacity felt limiting
+
+Solution:
+- Added the ability to expand the printing queue from base(1) to a max of 3
+
+The ability to expand the printing queue helped alleviate the downsides of having a print time and even became a very helpful upgrade when fully leveled up.

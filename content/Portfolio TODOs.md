@@ -13,6 +13,15 @@ For MOMH organize the iteration feed back and solutions more like the Arcana Are
 	a. Create a 2-3 minute video of players during playtesting enjoying your game. This is where you want to show social proof of creating fun, engaging gameplay. Clips where players are excited, joking with each other, reacting to big moments or just enjoying play are all good candidates to include here. Create the video, upload it to YouTube (it can be unlisted, if you prefer), then add a link here to the video.
 
 2. add guide video to the carousel under polished portfolio piece
+
+## MOMH Portfolio
+
+GIFS to record
+- Making coffee
+- Printing food
+- Showing off printer queue
+- Cooking items
+- Serving Customer
 # General
 
 Portfolio Questions: 
