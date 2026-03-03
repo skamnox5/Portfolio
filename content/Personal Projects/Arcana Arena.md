@@ -1,6 +1,7 @@
 ---
 tags:
   - Game_Designer
+  - Shipped
 ---
 
 <Carousel>
@@ -10,8 +11,9 @@ tags:
 </Carousel>
 
 
-Game Design Skills: Game Design Boot Camp project
+Game Design Skills: Game Prototyping Boot Camp project
 
+Project Link - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3678184422)
 # Details
 
 - **Genre:** Competitive Spell Crafting 
