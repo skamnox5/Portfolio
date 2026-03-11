@@ -42,6 +42,8 @@
 - Blender
 	- Modeling
 	- Rigging
+	- Texturing
+	- Animating
 - Microsoft Suite
 	- Word
 	- PowerPoint

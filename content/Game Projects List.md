@@ -19,7 +19,6 @@
 
 
 ## [[Rabbit Escape]]
-
 ![[RabbitEscape_03.jpg]] 
 ![[Rabbit Escape#Details]]
 
