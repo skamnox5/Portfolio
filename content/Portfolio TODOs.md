@@ -16,12 +16,6 @@ For MOMH organize the iteration feed back and solutions more like the Arcana Are
 
 ## MOMH Portfolio
 
-GIFS to record
-- Making coffee
-- Printing food
-- Showing off printer queue
-- ~~Cooking items~~
-- Serving Customer
 # General
 
 Portfolio Questions: 

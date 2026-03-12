@@ -24,3 +24,8 @@ For the texture I went with a stylized aesthetic for a toon shaded/NPBR asset wh
 To make the texture I utilized the Blender plugin **Ucupaint**. I blocked out the colors and used some procedural layers for adding ambient occlusion and an edge wear effect on the trim of the chest.
 
 After baking I made some adjustments to the texture in GIMP to clean up some artifacts from the bake.
+
+
+# Rigging
+
+I made a simple rig with a bone to control the hinge rotation and an IK chain for the tongue and included a root bone for root motion capability.
