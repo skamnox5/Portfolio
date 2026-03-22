@@ -25,6 +25,19 @@
 - Balanced and modified game based off of feedback from frequent playtests
 - Created documentation for game rules and a quick start guide
 - Created visual assets for the game items such as cards, utilizing icons sourced from game-icons.net
+
+
+
+**Social Media Simternship  - Stukent**
+
+*Fall 2024*
+
+- Creating marketing campaigns that appealed to specific demographics based on platform trends and userbase(Instagram for young adults, TikTok for students, etc)
+- Monitored various KPIs such as conversions, impressions and engagement
+- Determined success of campaign against relevant KPIs to the campaign
+- Created organic posts that capitalized on current trends and to maintain consistent social media presence
+- Observed other companies’ Social Media Marketing campaigns
+
 ---
 # Skills  
 
