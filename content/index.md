@@ -4,7 +4,7 @@ Titledraft:
 ---
 # Introduction
 
-I'm a Game Designer with experience in mostly UE5 and Blender with a little bit of Maya and Unity. I typically develop game systems and occasionally help with the creation of 3d art assets when needed.
+I'm a Game Designer with experience in mostly UE5 and Blender with a little bit of Maya and Unity experience. I typically develop game systems and occasionally help with the creation of 3d art assets when needed.
 
 # Featured Game Projects
 

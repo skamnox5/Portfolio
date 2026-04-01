@@ -27,7 +27,6 @@
 - Created visual assets for the game items such as cards, utilizing icons sourced from game-icons.net
 
 
-
 **Social Media Simternship  - Stukent**
 
 *Fall 2024*
@@ -85,14 +84,14 @@
  *October 2025 - January 2026*
  
  
- **University of New Mexico, Albuquerque, NM - Film and Digital Media Arts - Gaming Concentration BFA**
+ **University of New Mexico - Film and Digital Media Arts - Gaming Concentration BFA**
 
 *August 2022 - May 2025*
 
 *3.96 GPA* 
 
 
-**Central New Mexico Community College, Albuquerque, NM - Computer Programming AAS** 
+**Central New Mexico Community College - Computer Programming AAS** 
  
  *January 2017 - April 2020*
  
