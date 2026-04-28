@@ -4,6 +4,7 @@ tags:
   - Rigging
   - Texturing
   - Animating
+  - Modeling
 ---
 <Carousel>
 <img src="Mimic_Anim.gif" alt="Anim"/>
@@ -15,8 +16,13 @@ tags:
 
 - **Software:** Blender
 - **Style**: NPBR
+- **Polycount:** 2,194
+- **Texture Resolution:** 1024x1024
 - **Role:** Modeler, Rigger, Texture Artist, Animator
 
+# Modeling 
+
+I modeled based off of a reference image and used a box modeling workflow to try to keep the poly count low
 # Texture
 
 For the texture I went with a stylized aesthetic for a toon shaded/NPBR asset where all details are baked into a diffuse texture.

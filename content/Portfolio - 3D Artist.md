@@ -4,3 +4,8 @@
 ![[Mimic#Details]]
 
 ---
+
+## [[Lever Action Rifle]]
+
+![[Rifle_FullAnim.gif]]
+![[Lever Action Rifle#Details]]
