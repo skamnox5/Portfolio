@@ -36,7 +36,7 @@ I modeled this by extruding planes and cubes over a reference image with an acti
 <img src="Rifle_Normal.png" alt="Normal Map"/>
 </Carousel>
 
-I used the Ucupaint Blender add-on to create the Albedo, Roughness, Metallic and normal maps for the rifle.
+I used the Ucupaint Blender add-on to create the Albedo, Roughness, Metallic and Normal maps for the rifle.
 
 I used a procedural noise texture to create the wood like material and used a different noise texture to add a patchy roughness layer on both the metal and wood materials to make the rifle have more texture so it doesn't look too flat and polished. 
 

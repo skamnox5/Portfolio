@@ -111,8 +111,7 @@ The game I want to make is one that evokes the feelings of being a spellcaster t
 
 ## 2: Design Document - Rulebook
 
-![[Arcana Arena Rulebook V2.pdf]]
-
+![[Arcana-Arena-Rulebook-V2.pdf]]
  
  **Premise:** 
 	I wanted to have an immersive spell casting game system and to do this I outlined a modular spell crafting system that allows players to mix and match different aspects to create an appropriate spell for the current situation.

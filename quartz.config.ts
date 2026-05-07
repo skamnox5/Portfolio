@@ -14,7 +14,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: false,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: 'G-PFQEQ3PT3K'
+        
     },
     locale: "en-US",
     baseUrl: "skamnox5.github.io/Portfolio/",
